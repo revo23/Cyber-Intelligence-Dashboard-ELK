@@ -17,9 +17,12 @@ Configure the abuse.ch integration (via the Elastic Agent) in Data management an
 
 **Abuse.ch Integration**  
 
+<img width="1456" height="351" alt="image" src="https://github.com/user-attachments/assets/0ea12259-5adf-4c03-9f7e-272cce768438" />
+
+Indicator lifecycle: The integration supports IoC expiration (via transforms) so you don’t rely on stale data.
+
 <img width="1623" height="847" alt="image" src="https://github.com/user-attachments/assets/e9077936-f6c2-41d9-a117-b0e6fb2f3571" />  
 get Auth Key from abuse.ch account
-
 
 
 **Abuse URLs**  
