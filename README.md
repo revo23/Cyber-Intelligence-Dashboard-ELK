@@ -4,7 +4,10 @@
 
 **Sign up Elastic Cloud**  
 
-**Install Agent**  
+**Install Agent on Endpoint**  
+
+**Abuse.ch Integration**  
+
 <img width="1623" height="847" alt="image" src="https://github.com/user-attachments/assets/e9077936-f6c2-41d9-a117-b0e6fb2f3571" />  
 get Auth Key from abuse.ch account
 
