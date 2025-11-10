@@ -1,4 +1,4 @@
-# Cyber-Fraud-Intelligence-Dashboard-ELK  
+# Cyber-Intelligence-Dashboard-ELK  
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/5d22db57-3413-4ea4-9e33-462bc87579bf" />  
 
