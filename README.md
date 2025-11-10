@@ -1,6 +1,6 @@
 # Cyber-Fraud-Intelligence-Dashboard-ELK  
 
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/5d22db57-3413-4ea4-9e33-462bc87579bf" />  <img width="400" height="399" alt="image" src="https://github.com/user-attachments/assets/961d96f3-c1e8-4f7e-8f6f-7a8369379c2d" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/5d22db57-3413-4ea4-9e33-462bc87579bf" />  <img width="400" height="399" alt="image" src="https://github.com/user-attachments/assets/961d96f3-c1e8-4f7e-8f6f-7a8369379c2d" />
 
 
 
