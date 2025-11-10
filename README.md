@@ -1,11 +1,11 @@
 # Cyber-Fraud-Intelligence-Dashboard-ELK  
 
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/5d22db57-3413-4ea4-9e33-462bc87579bf" />  <img width="628" height="353" alt="image" src="https://github.com/user-attachments/assets/bf3aa79c-ff1e-4905-b37c-62c2c609a000" />  <img width="400" height="399" alt="image" src="https://github.com/user-attachments/assets/961d96f3-c1e8-4f7e-8f6f-7a8369379c2d" />
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/5d22db57-3413-4ea4-9e33-462bc87579bf" />  <img width="400" height="399" alt="image" src="https://github.com/user-attachments/assets/961d96f3-c1e8-4f7e-8f6f-7a8369379c2d" />
 
 
 
 **Overview**  
-Configure the abuse.ch adn RecordedFuture integration (via the Elastic Agent/Filebeat or the built‑in integration) on Elastic Security (in Elastic Cloud / Elastic Cloud) and tailor it for cyber‑fraud intelligence use‑cases. I’ll also highlight tuning and mapping that are specific to fraud/intel rather than purely malware.  
+Configure the abuse.ch integration (via the Elastic Agent/Filebeat or the built‑in integration) on Elastic Security (in Elastic Cloud / Elastic Cloud) and tailor it for cyber‑fraud intelligence use‑cases. I’ll also highlight tuning and mapping that are specific to fraud/intel rather than purely malware.  
 
 
 **Sign up Elastic Cloud**  
