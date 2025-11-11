@@ -55,13 +55,13 @@ Monitoring & dashboards: Use dashboards to track how many indicator matches 
 
 External signal: threat.indicator.email = "user@example[.]com"
 
-Internal signal: Successful login attempts from unusual geolocation.
+Internal signal: Successful login attempts from unusual geolocation that is not the customer's city/country
 
 **Account Takeover**
 
 External signal: threat.indicator.ip = "185.42.42[.]42"
 
-Internal signal: Multiple failed logins from that IP across different bank accounts due to credential stuffing
+Internal signal: Multiple failed logins from that IP across different bank accounts due to credential stuffing campaign
 
 **Further work**
 
