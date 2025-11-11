@@ -47,8 +47,6 @@ Use “indicator match” rules: The built‑in detection rule type Threat I
 
 Monitoring & dashboards: Use dashboards to track how many indicator matches occur, which accounts/devices are involved, trends over time.  
 
-**STIX/TAXII feeds**
-
 **Further work**
 
 Setup MISP (Threat Intel Platform) server for better results
