@@ -13,11 +13,15 @@
 
 STIX = the message content, TAXII = the delivery mechanism
 
+
+
 **Sign up Elastic Cloud**  
 
 **Install Agent on Endpoint**  
 
 <img width="1267" height="467" alt="image" src="https://github.com/user-attachments/assets/5dc1db03-1333-40a4-a087-e37321b5e812" />  
+
+
 
 **Abuse.ch Integration**  
 
@@ -31,7 +35,7 @@ Indicator lifecycle: The integration supports IoC expiration (via transforms) so
 
 
 
-**Abuse URLs**  
+**Abused URLs**  
 
 <img width="1854" height="805" alt="image" src="https://github.com/user-attachments/assets/c3d73b0c-c2d0-4e44-8371-cd0cc850d1d7" />  
 
@@ -46,6 +50,14 @@ Use “indicator match” rules: The built‑in detection rule type Threat I
 <img width="1202" height="692" alt="image" src="https://github.com/user-attachments/assets/2aff26ae-8f62-4b39-8f87-954ffa57ce4f" />  
 
 Monitoring & dashboards: Use dashboards to track how many indicator matches occur, which accounts/devices are involved, trends over time.  
+
+**Credential Leak / Dark Web Exposure**
+
+External signal: threat.indicator.email = "user@example.com"
+
+Internal signal: Successful login attempts from unusual geolocation.
+
+**Account Takeover**
 
 **Further work**
 
