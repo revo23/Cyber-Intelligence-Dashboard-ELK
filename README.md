@@ -49,7 +49,35 @@ Monitoring & dashboards: Use dashboards to track how many indicator matches 
 
 **STIX/TAXII feeds**
 
+**Further work**
 
+Setup a MISP (Threat Intel Platform) server for better results
+
+1. Threat feed → Elastic directly (current)
+
+You push indicators (IPs, domains, hashes) straight into Elastic as a Threat Intel index, and use detection rules like “Threat Intel IP/URL/Domain Indicator Match” to detect matches in logs.  
+
+This is simpler, but much more limited:
+
+- You only get raw indicators.
+
+- No correlation between feeds.
+
+- No event context (campaigns, TTPs, threat actor info).
+
+- No sharing / MISP taxonomies / galaxy clusters.
+
+- Harder to manage expiry, deduplication, or trust levels.
+
+2. Threat feed → MISP → Elastic (recommended for most)
+
+[Feeds / Sources]
+   ↓
+[MISP] — enrichment, deduplication, tagging, correlation, sharing
+   ↓
+[Elastic Security / SIEM] — indicator matching, alerting, dashboards
+
+You ingest threat intel feeds (STIX/TAXII, CSV, JSON, etc.) into MISP, and then forward curated or correlated IOCs to Elastic Security.  
 
 **References**  
 https://www.elastic.co/cloud  
