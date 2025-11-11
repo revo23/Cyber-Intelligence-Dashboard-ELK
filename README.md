@@ -9,7 +9,7 @@
 **Overview**  
 
 1. Configure the abuse.ch integration (via the Elastic Agent) in Data management and tailor it for cyber‑fraud intelligence use‑cases.  
-2. I’ll also highlight mapping that are specific to fraud/intel and exmaple correlations.  
+2. I’ll also highlight mapping that are specific to fraud/intel and example correlations.  
 
 STIX = the message content, TAXII = the delivery mechanism
 
