@@ -8,7 +8,9 @@
 
 **Overview**  
 
-Configure the abuse.ch integration (via the Elastic Agent) in Data management and tailor it for cyber‑fraud intelligence use‑cases. I’ll also highlight tuning and mapping that are specific to fraud/intel and exmaple correlations.  
+1. Configure the abuse.ch integration (via the Elastic Agent) in Data management and tailor it for cyber‑fraud intelligence use‑cases. 
+2. I’ll also highlight tuning and mapping that are specific to fraud/intel and exmaple correlations.
+3. STIX/TAXII for other custom threat intel feeds
 
 
 
